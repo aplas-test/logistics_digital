@@ -1,23 +1,27 @@
 {
-  "id": "logistics_digital",
-  "name": "Logistics Digital",
-  "categoryId": "accounting",
-  "description": "Object-based national frame",
-  "investment_24m": "725",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Althea Oxbie",
-  "licensing_cost": "39",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "417",
-  "deployment_date": "16/9/11",
-  "end_of_maintenance": "9/11/17",
-  "department": "Business Development",
-  "status": "Active",
-  "end_of_life": "21/11/19",
-  "vendor_email": "Althea.Oxbie@Microsoft.com",
-  "months_to_renew_support": "32",
-  "sme_email": "Patrica.Castellaccio@memento.net.au",
-  "vendor_phone": "+81 104 892 6226",
-  "investment_number": "269"
+  "applications": [
+    {
+      "id": "logistics_digital",
+      "name": "Logistics Digital",
+      "categoryId": "accounting",
+      "description": "Object-based national frame",
+      "investment_24m": "725",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Althea Oxbie",
+      "licensing_cost": "39",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "417",
+      "deployment_date": "16/9/11",
+      "end_of_maintenance": "9/11/17",
+      "department": "Business Development",
+      "status": "Active",
+      "end_of_life": "21/11/19",
+      "vendor_email": "Althea.Oxbie@Microsoft.com",
+      "months_to_renew_support": "32",
+      "sme_email": "Patrica.Castellaccio@memento.net.au",
+      "vendor_phone": "+81 104 892 6226",
+      "investment_number": "269"
+    }
+  ]
 }
